@@ -154,18 +154,18 @@ The design of the drones consists in the distribution of the available points ac
 The points for the design of drones can be distributed in the following characteristics:
 
     1. ** Attack **: Attack points for each drone
-    2. ** Defense **: Defense points for each drone
-    3. ** Load **: Load capacity for each resource
-    4. ** Distance **: Range of attack
+    2. ** Defense **: Defense points for each drone
+    3. ** Load **: Load capacity for each resource
+    4. ** Distance **: Range of attack
 
 
 According to the distribution of the points there are 5 different types of drones
 
     - ** Predator **: Its main feature is the attack
-    - ** Keeper **: Its main feature is the defense
-    - ** Interceptor **: Its biggest feature is the range of attack
-    - ** Galleon **: Its biggest feature is the amount of resources it can carry
-    - ** Hybrid **: Does not have an outstanding feature		
+    - ** Keeper **: Its main feature is the defense
+    - ** Interceptor **: Its biggest feature is the range of attack
+    - ** Galleon **: Its biggest feature is the amount of resources it can carry
+    - ** Hybrid **: Does not have an outstanding feature		
 
 .. note::
     Two or more types of drones can not coexist at the same time. If the strategy changes, it is necessary to destroy current fleet, redesign and build new types of drones.
