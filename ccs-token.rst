@@ -6,16 +6,14 @@ Description
 -----------
 
 CSS Token are the command modules for the CryptoSpaceShip ships. These command modules have skill processors called
-QAIM (Quantum Artificial Intelligence Module). As a CSS Token participates in different war scenarios QAIM processors
-they are trained, which improves performance and performance in the next missions and operational theaters.
+QAIM (Quantum Artificial Intelligence Module). As a CSS Token participates in different war scenarios, his QAIM processors are trained, which improves performance and abilities in the next missions and operational theaters.
 
 .. image :: csstokencolor.png
     : width: 400px
     : alt: CSS Token Full Render
     : align: center
 
-Each CSS Token has characteristics of the generation and general characteristics. Regardless of the generation, you can differentiate
-one by:
+Each CSS Token has particular characteristics of the generation and general characteristics. Regardless of the generation, you can differentiate one by:
 
 - First name
 - Colour
@@ -66,4 +64,4 @@ Characteristics of the current generation
     : align: center
 
 .. hint ::
-    Once the QAIM points are distributed there is no way to go back. Think carefully about your choices for the course you want for your CSS Token.
+    Once the QAIM points are distributed there is no way to go back. Think carefully about your choices for the imprint you want for your CSS Token.
