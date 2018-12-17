@@ -10,13 +10,13 @@ The CSS Hull is the component that together with the CSS Token form a Crypto-spa
 All the Hull CSS at the moment of connecting have all their structures in a basic level that must progress from level to become more powerful.
 
 
-.. image :: csssocket.png
-    : width: 400px
-    : alt: CSS Token Connection and CSS Hull
-    : align: center
+.. image:: csssocket.png
+    :width: 400px
+    :alt: CSS Token Connection and CSS Hull
+    :align: center
 
 
-.. note ::
+.. note::
     The current generation of CSS Hull is: ** Gen 0 **
 
 
@@ -34,7 +34,7 @@ Characteristics of the current generation
 - 4 Behavior modes: Attack, Defense, Movement and Normal
 
 
-.. note ::
+.. note::
     The generation ** Gen 0 ** has a 2 QAIM interface with the CSS Token module. That is to say if the CSS Token has more QAIMs, as maximum they will be able to connect with two of them.
     
 
@@ -52,11 +52,11 @@ Below are the production structures
 - ** 1 Mineral Collector **: This module collects the metals that exist in each quadrant. It can be updated from level 1 to level 10. Producing in the first level 1 (one) metals per density and in the last level 40 (forty) metals per density.
 
 
-.. hint ::
+.. hint::
     Developing these productive structures first can give you the advantage since an economically developed ship is a powerful ship.
 
 
-.. note ::
+.. note::
     The production of energy does not depend on the position where the Crypto-space Ship is located since it does not depend on the distance to the nearest star. In the case of graphene and metals, each coordinate of the crypto-space has a different density.
     Currently the variation of the density of the different elements is a subject of study.
 
