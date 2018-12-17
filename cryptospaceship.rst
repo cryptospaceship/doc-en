@@ -3,10 +3,10 @@ Crypto-space Ship
 #################
 
 
-.. image :: cryptospaceship.png
-    : width: 400px
-    : alt: CryptoSpaceShip
-    : align: center
+.. image:: cryptospaceship.png
+    :width: 400px
+    :alt: CryptoSpaceShip
+    :align: center
 
 
 The Crypto-space Ships are powerful self-sufficient stronghold that can ride through space and impose respect in their path. It is composed of the command module and the helmet, ** CSS Token ** and ** CSS Hull ** respectively
@@ -22,10 +22,10 @@ Description
 CSS Token are the command modules for the CryptoSpaceShip ships. These command modules have skill processors called
 QAIM (Quantum Artificial Intelligence Module). As a CSS Token participates in different war scenarios, his QAIM processors are trained, which improves performance and abilities in the next missions and operational fields.
 
-.. image :: csstokencolor.png
-    : width: 400px
-    : alt: CSS Token Full Render
-    : align: center
+.. image:: csstokencolor.png
+    :width: 400px
+    :alt: CSS Token Full Render
+    :align: center
 
 Each CSS Token has particular characteristics of the generation and general characteristics. Regardless of the generation, you can differentiate one by:
 
@@ -42,10 +42,10 @@ Characteristics of the current generation
 ---------------------------------------
 
 
-.. image :: gen0.png
-    : width: 400px
-    : alt: CSS Token Draft
-    : align: center
+.. image:: gen0.png
+    :width: 400px
+    :alt: CSS Token Draft
+    :align: center
 
 - Generation: Gen 0
 
@@ -69,15 +69,15 @@ Characteristics of the current generation
     5. Improvements in Jumping GDU
     6. Mode Change Improvements
 
-.. note ::
+.. note::
     The ** Training Limit establishes ** the number of points necessary to be able to level up and you can make the ** Training Capacity **
 
-.. image :: csstoken.png
-    : width: 400px
-    : alt: CSS Token
-    : align: center
+.. image:: csstoken.png
+    :width: 400px
+    :alt: CSS Token
+    :align: center
 
-.. hint ::
+.. hint::
     Once the QAIM points are distributed there is no way to go back. Think carefully about your choices for the imprint you want for your CSS Token.
 
 ********
@@ -92,13 +92,13 @@ The CSS Hull is the component that together with the CSS Token form a Crypto-spa
 All the Hull CSS at the moment of connecting have all their structures in a basic level that must progress from level to become more powerful.
 
 
-.. image :: csssocket.png
-    : width: 400px
-    : alt: CSS Token Connection and CSS Hull
-    : align: center
+.. image:: csssocket.png
+    :width: 400px
+    :alt: CSS Token Connection and CSS Hull
+    :align: center
 
 
-.. note ::
+.. note::
     The current generation of CSS Hull is: ** Gen 0 **
 
 
@@ -116,7 +116,7 @@ Characteristics of the current generation
 - 4 Behavior modes: Attack, Defense, Movement and Normal
 
 
-.. note ::
+.. note::
     The generation ** Gen 0 ** has a 2 QAIM interface with the CSS Token module. That is to say if the CSS Token has more QAIMs, as maximum they will be able to connect with two of them.
     
 
@@ -134,11 +134,11 @@ Below are the production structures
 - ** 1 Mineral Collector **: This module collects the metals that exist in each quadrant. It can be updated from level 1 to level 10. Producing in the first level 1 (one) metals per density and in the last level 40 (forty) metals per density.
 
 
-.. hint ::
+.. hint::
     Developing these productive structures first can give you the advantage since an economically developed ship is a powerful ship.
 
 
-.. note ::
+.. note::
     The production of energy does not depend on the position where the Crypto-space Ship is located since it does not depend on the distance to the nearest star. In the case of graphene and metals, each coordinate of the crypto-space has a different density.
     Currently the variation of the density of the different elements is a subject of study.
 
