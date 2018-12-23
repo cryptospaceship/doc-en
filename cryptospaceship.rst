@@ -11,13 +11,12 @@ Crypto-space Ship
 
 The Crypto-space Ships are powerful self-sufficient stronghold that can ride through space and impose respect in their path. It is composed of the command module and the helmet, **CSS Token** and **CSS Hull** respectively
 
-
+*********
 CSS Token
-=========
+*********
 
-
-Description
------------
+Description 
+===========
 
 CSS Token are the command modules for the CryptoSpaceShip ships. These command modules have skill processors called
 QAIM (Quantum Artificial Intelligence Module). As a CSS Token participates in different war scenarios, his QAIM processors are trained, which improves performance and abilities in the next missions and operational fields.
@@ -36,11 +35,11 @@ Each CSS Token has particular characteristics of the generation and general char
 - NFT #id
 
 
-.. note ::
-    The current generation of the Token CSS is: ** Gen 0 **
+.. note::
+    The current generation of the Token CSS is: **Gen 0**
 
 Characteristics of the current generation
----------------------------------------
+=========================================
 
 
 .. image:: gen0.png
@@ -64,14 +63,14 @@ Characteristics of the current generation
 
     QAIMs
     1. Fleet Points
-    2. Improvement Resources
-    3. Improvement Constructions
+    2. Resources Improvement
+    3. Constructions Improvement
     4. Fleet improvement
-    5. Improvements in Jumping GDU
+    5. Jumping GDU Improvements
     6. Mode Change Improvements
 
 .. note::
-    The **Training Limit establishes** the number of points necessary to be able to level up and you can make the **Training Capacity**
+    The **Training Limit** establishes the number of points necessary to be able to level up and you can make the **Training Capacity**
 
 .. image:: csstoken.png
     :width: 400px
@@ -80,6 +79,8 @@ Characteristics of the current generation
 
 .. hint::
     Once the QAIM points are distributed there is no way to go back. Think carefully about your choices for the imprint you want for your CSS Token.
+    
+    
 
 ********
 CSS Hull
@@ -104,7 +105,7 @@ All the Hull CSS at the moment of connecting have all their structures in a basi
 
 
 Characteristics of the current generation
-============================================================================
+=========================================
 
 - It has two CryIon-2 engines that allow a jump of up to 6 gdu
 
@@ -118,11 +119,11 @@ Characteristics of the current generation
 
 
 .. note::
-    The generation ** Gen 0 ** has a 2 QAIM interface with the CSS Token module. That is to say if the CSS Token has more QAIMs, as maximum they will be able to connect with two of them.
+    The generation **Gen 0** has a 2 QAIM interface with the CSS Token module. That is to say if the CSS Token has more QAIMs, as maximum they will be able to connect with two of them.
     
 
 Productive Structures
-=======================================
+=====================
 
 In **Crypto-Space** there are 3 elements: Energy, Graphene and Metals. All the updates in the Crypto-space Ship require a certain amount of resources for its construction.
 
