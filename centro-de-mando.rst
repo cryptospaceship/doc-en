@@ -42,17 +42,17 @@ Bellow is the resources view.
 Left section
 ============
 
-Se puede observar el nivel de:
+Its possible to see the level of:
 
-1. Los paneles Solares
+1. Solar Panels
 
-2. Recolector de Grafeno
+2. Graphene Collector
 
-3. Recolector de Metales
+3. Metals Collector
 
-Las barras indican la cantidad de recursos disponibles para ampliar al proximo nivel. El color amarillo representa a la energia, el color negro al grafeno y el gris a metales.
+The bars indicate available resources amount to upgrade in the next level. Yellow color represent energy, black graphene and grey metals.
 
-El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo, ya que no se permiten ampliaciones simultaneas. Al presionarlo se puede observar la cantidad re recursos necesarios para la actualiacion y al presionar el boton **Confirm** se envia la orden de construccion.
+The blinking **UPGRADE READY** boton, shows that enough resource for upgrade are available and there is nothing being build, since simultaneus upgrades are not allowed. When pressed, its possible to watch resources amount needed for the upgradeand clicking on **Confirm** buton, the construction orden is being sent.
 
 .. image:: upgrade.png
     :width: 400px
