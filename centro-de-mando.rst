@@ -1,46 +1,46 @@
 ###############
-Centro de Mando
+Command Center
 ###############
 
-Todo capitan de una Crypto-space Ship tiene que saber como hacerla evolucionar, ganar batallas y surcar el crypto-espacio.
+Every Crypto-space Shiphas to know how to evolve it, win battles and cross the crypto-space.
 
 
 *********************
-Indicadores Generales
+ General Indicators
 *********************
 
-Los siguiente indicadores estan siempre presentes e informan lo siguiente:
+The following indicators are always present and report the following:
 
 .. image:: indicadores.png
     :width: 700px
     :alt: Recursos
     :align: center
 
-1. Cantidad de **Energia** acumulada sobre la cantidad que puede almacenar actualmente. ( **acumulado** of **capacidad** )
+1. Acumulated **Energia** ammount over the current storage capacity. ( **storage** over **capacity** )
 
-2. Cantidad de **Grafeno** acumulado sobre la cantidad que puede almacenar actualmente
+2. Acumulated **Graphene** ammount over the current storage capacity.
 
-3. Cantidad de **Metales** acumulado sobre la cantidad que puede almacenar actualmente
+3.Acumulated **Metals** ammount over the current storage capacity.
 
-4. Estado de la Crypto-space Ship. **100%** indica que se encuentra en optimas condiciones.
+4. Crypto-space Ship status. **100%** show that is on optimal conditions.
 
 .. hint::
-    Cuando el recurso acumulado es igual a la cantidad que la Crypto-space ship puede almacenar actualmente y la produccion de cada recurso es mayor a 0, se estan desperdiciando recursos. **Se recomienda gastar o de ser posible ampliar el almancen**.
+    When the acumulated resource are equal to the current Crypto-space ship storage capacity and production of each resourse is greater than 0, resources are being wasted. **You shoud spend your resources or if possible, increase the capacity on the wharehouse**.
 
 
-********
-Recursos
-********
+*********
+Resources
+*********
 
-A continuacion se presenta la vista de Recursos.
+Bellow is the resources view.
 
 .. image:: resources.png
     :width: 700px
     :alt: Recursos
     :align: center
 
-Sección Izquierda
-=================
+Left section
+============
 
 Se puede observar el nivel de:
 
