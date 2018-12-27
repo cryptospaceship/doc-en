@@ -16,7 +16,7 @@ The following indicators are always present and report the following:
     :alt: Recursos
     :align: center
 
-1. Acumulated **Energia** ammount over the current storage capacity. ( **storage** over **capacity** )
+1. Acumulated **Energy** ammount over the current storage capacity. ( **storage** over **capacity** )
 
 2. Acumulated **Graphene** ammount over the current storage capacity.
 
