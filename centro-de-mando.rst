@@ -59,29 +59,29 @@ The blinking **UPGRADE READY** boton, shows that enough resource for upgrade are
     :alt: Recursos
     :align: center
 
-Una vez que se confirma, se descuentan los recursos y empieza su actualizacion.
+Once confirmed, resources are debited and the upgrade begin.
 
-Sección Derecha
-===============
+Right Section
+==============
 
-Sobre este espacio se puede observar:
+Here it shows:
 
-1. **Location**: Coordenada donde se encuentra la Crypto-space Ship
+1. **Location**: Coordinate where the Crypto-space Ship is located.
 
-2. **Production Ratio**: La produccion de recursos por bloque
+2. **Production Ratio**: Resources production per block.
 
-3. **Watch countdown**: La cuenta regresiva que muestra la cantidad de bloques restantes para terminar la actualizacion.
+3. **Watch countdown**: The countdown that shows how many blocks left to finish the upgrade.
 
-Opcionalmente pueden aparecer otros botones intermintes desbloqueando ciertas caracteristicas, como por ejemplo la opcion de prender el conversor de recursos y la opcion de convertir recursos.
+Optionally other butons can show unblocking some features, such as the option to turn on the resource converter and the option to convert resources.
 
 .. note::
-    **La unidad de medida de tiempo son los bloques**
+    **The unit measure time is in blocks**
 
-**************
-Construcciones
-**************
+*************
+Constructions
+*************
 
-Vista del panel de construcciones internas
+Internal construction panel view
 
 
 .. image:: buildings.png
@@ -89,22 +89,22 @@ Vista del panel de construcciones internas
     :alt: Recursos
     :align: center
 
-Sección Izquierda
-=================
+Left Section
+============
 
-Al igual que en la vista de recursos, se puede observar el nivel de las siguientes estructuras
+Just as the resources view, the following structures are shown
 
-1. Almacen
+1. Wharehouse
 
 2. Hangar
 
 3. W.O.P.R
 
-Las barras indican la cantidad de recursos disponibles para ampliar al proximo nivel. El color amarillo representa a la energia, el color negro al grafeno y el gris a metales.
+The bars shows the available resources quanities available for upgrade to next level. Yellow color represent energy, black the graphene and grey for metals.
 
-El boton intermitente **UPGRADE READY** indica que se tienen los recursos necesario para ampliar de nivel y que no hay nada contruyendo, ya que no se permiten ampliaciones simultaneas. Al presionarlo se puede observar la cantidad re recursos necesarios para la actualiacion y al presionar el boton **Confirm** se envia la orden de construccion.
+The blinking **UPGRADE READY** buton, shows that enough resources needed to upgrade level are meet and there is nothing being built, since simultaneus upgrade are no allowd. By pressing the buton, its possible to see the resource quantitty needed in order to upgrade and by clicking on the **Confirm** buton, the construction order is sent.
 
-Al momento de ampliar el W.O.P.R de nivel 0 a nivel 1, ademas se tiene que seleccionar el rol de W.O.P.R entre:
+When upgrading the W.O.P.R from level 0 to level 1, you must select the W.O.P.R role betwen:
 
 1. Converter
 
@@ -118,26 +118,26 @@ Al momento de ampliar el W.O.P.R de nivel 0 a nivel 1, ademas se tiene que selec
     :align: center
 
 
-Sección Derecha
+Right Section
 ===============
 
-En esta sección se puede encontrar infomacion sobre la configuracion de la flota de drones de combate (**fleet**).
+In this section you can find information about the configuration of your combat drones fleet (**fleet**).
 
-1. **Fleet**: Informacion sobre la flota de drones
+1. **Fleet**: Information about drones fleet
 
-    - El numero de drones que compone la flota
+    - Number of drones on the fleet
     
-    - Las caracteristicas de la flota, es decir, puntos de ataque, defensa, distancia y carga. En el caso de que la flota este diseñada. Al construir el hangar en nivel 1 ya aparece el boton intermintente **DESIGN FLEET** y luego que este diseñada **BUILD MORE**.
+    - Features of the fleet, meaning, atacks points, defense, distance and load. In the case the fleet is designed. When building the hangar at level 1, the blinking buton **DESIGN FLEET** is shown and then, after desinged **BUILD MORE**.
 
-    - La otra opcion que se activa dadas ciertas circunstancias es el boton intermitente **DISASSEMBLE FLEET** para destruir la flota actual.
+    - LThe other option that activates under that circunstance is the  **DISASSEMBLE FLEET** blinking buton in order to destroy the current fleet.
 
-2. **Fleet Prod. Queue**: La cantidad de drones que se encuentran en la cola de construccion.
+2. **Fleet Prod. Queue**: The number of drones that are in the construction queue.
 
-4. **Watch countdown**: Los relojes de cuenta regresiva
+4. **Watch countdown**: Watch coundown.
 
-    - **BUILD**: Cuantos bloques faltan para finalizar la ampliacion del almace, hangar o wopr.
+    - **BUILD**: The number of blocks left to finish the upgrade of the wharehouse, hangar or wopr.
 
-    - **FLEET**: Bloques restantes para la finalizacion de la construccion de la flota de drones.
+    - **FLEET**: The number of blocks left to finish the upgrade of the construction drones fleet.
 
 
 ***
