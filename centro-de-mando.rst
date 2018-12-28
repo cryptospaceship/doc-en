@@ -52,7 +52,7 @@ Its possible to see the level of:
 
 The bars indicate available resources amount to upgrade in the next level. Yellow color represent energy, black graphene and grey metals.
 
-The blinking **UPGRADE READY** boton, shows that enough resource for upgrade are available and there is nothing being build, since simultaneus upgrades are not allowed. When pressed, its possible to watch resources amount needed for the upgradeand clicking on **Confirm** buton, the construction orden is being sent.
+The blinking **UPGRADE READY** boton, shows that enough resource for upgrade are available and there is nothing being build, since simultaneus upgrades are not allowed. When pressed, its possible to watch resources amount needed for the upgradeand clicking on **Confirm** button, the construction orden is being sent.
 
 .. image:: upgrade.png
     :width: 400px
@@ -72,7 +72,7 @@ Here it shows:
 
 3. **Watch countdown**: The countdown that shows how many blocks left to finish the upgrade.
 
-Optionally other butons can show unblocking some features, such as the option to turn on the resource converter and the option to convert resources.
+Optionally other buttons can show unblocking some features, such as the option to turn on the resource converter and the option to convert resources.
 
 .. note::
     **The unit measure time is in blocks**
@@ -102,7 +102,7 @@ Just as the resources view, the following structures are shown
 
 The bars shows the available resources quanities available for upgrade to next level. Yellow color represent energy, black the graphene and grey for metals.
 
-The blinking **UPGRADE READY** buton, shows that enough resources needed to upgrade level are meet and there is nothing being built, since simultaneus upgrade are no allowd. By pressing the buton, its possible to see the resource quantitty needed in order to upgrade and by clicking on the **Confirm** buton, the construction order is sent.
+The blinking **UPGRADE READY** button, shows that enough resources needed to upgrade level are meet and there is nothing being built, since simultaneus upgrade are no allowd. By pressing the button, its possible to see the resource quantitty needed in order to upgrade and by clicking on the **Confirm** button, the construction order is sent.
 
 When upgrading the W.O.P.R from level 0 to level 1, you must select the W.O.P.R role betwen:
 
@@ -127,9 +127,9 @@ In this section you can find information about the configuration of your combat 
 
     - Number of drones on the fleet
     
-    - Features of the fleet, meaning, atacks points, defense, distance and load. In the case the fleet is designed. When building the hangar at level 1, the blinking buton **DESIGN FLEET** is shown and then, after desinged **BUILD MORE**.
+    - Features of the fleet, meaning, atacks points, defense, distance and load. In the case the fleet is designed. When building the hangar at level 1, the blinking button **DESIGN FLEET** is shown and then, after desinged **BUILD MORE**.
 
-    - LThe other option that activates under that circunstance is the  **DISASSEMBLE FLEET** blinking buton in order to destroy the current fleet.
+    - LThe other option that activates under that circunstance is the  **DISASSEMBLE FLEET** blinking button in order to destroy the current fleet.
 
 2. **Fleet Prod. Queue**: The number of drones that are in the construction queue.
 
@@ -173,7 +173,7 @@ We can also identify other objects such as:
 
 - **Planets**
 
-- **Asteroides belt**
+- **Asteroids belt**
 
 - **Other Crypto-space ships**
 
@@ -238,68 +238,63 @@ When firing the Crypto-Ion cannon, you can choose between two shooting modes:
 
 
 
-Planetas
---------
+Planets
+-------
 
-Cuanto se selecciona un planeta se disponibilizara la informacion del mismo.
+When a planet is selected, information about it will be made available.
 
-- El nombre con que se conoce al planeta
+- The name by which the planet is known
 
-- La distancia a la que se encuentra
+- The distance you are at
 
-- El dueño del planeta
+- The owner of the planet
 
-- Las Cryto-space Ships que se encuentran defendiendolo
+- The Cryto-space Ships that are defending it
 
 .. note::
-    Los planetas son defendidos por nativos antes de la primer conquista. Nunca se debe subertimar el poder de estos.
-
+    The planets are defended by natives before the first conquest. The power of these should never be emphasized.
 
 .. image:: planetmap.png
     :width: 400px
     :alt: Planet Map
     :align: center
 
-El boton **Attack** estara disponible en caso de que la flota de drones este lista para el combate, el planeta se puede atacar para intentar debilitar a los defensores o directamente intentar la conquista.
+The **Attack** button will be available in case the drone fleet is ready for combat, the planet can be attacked to try to weaken the defenders or directly attempt the conquest.
 
+If the intention is to defend the planet, you can occupy one of the 4 defensive positions, it is necessary to have drones so that **Defend** is enabled.
 
-Si la intencion es defender el planeta, se puede ocupar una de las 4 posiciones defensivas, es necesario contar con drones para que **Defend** esta habilitado.
-
-
-Para poder aterrizar basta con presionar el boton **Land** que se disponibilizara en caso de que la Crypto-space Ship esta a distancia y los motores esten listos para el siguiente movimiento.
+To land, simply click the **Land** button that will be available in case the Crypto-space Ship is at reachable distance and the engines are ready for the next move.
 
 .. hint::
-    Al aterrizar en un planeta **la produccion de grafeno y metales es nula**, pero es una excelente opcion para escapar de un enemigo. Al aterrizar en un planeta no hay forma de ser atacado.
+When landing on a planet **the production of graphene and metals is zero**, but it is an excellent option to escape from an enemy. When landing on a planet there is no way to be attacked.
 
+Right Section
+=============
 
-Sección Derecha
-===============
+- **Location** it tells us the coordinates of the Crypto-space Ship position on the map
 
-- **Location** nos indica las coordenadas de la posicion de la Crypto-space Ship en el mapa
+- **Hybrid**, **Predator**, **Keeper**, **Galleon** or **Interceptor** indicates the type of combat drones we have and the amount available. Under what state they are: **Ready for battle** or **Waiting**.
 
-- **Hybrid**, **Predator**, **Keeper**, **Galleon** o **Interceptor** indica el tipo de drones de combate que tenemos y la cantidad disponible de los mismos. Debajo en que estado se encuentran: **Ready for battle** o **Waiting**. 
+- **Action Countdown** blocks quantity needed for
 
-- **Action Countdown** la cantidad de bloques necesarios para
+    - **Move**: perform a movement of the Crypto-space Ship. This is because the motors must be loaded in order to make the next jump.
 
-    - **Move**: realizar un movimiento de la Crypto-space Ship. Esto se debe a que los motores se deben cargar para poder realizar el proximo salto.
+    - **Mode**: to change mode again.
 
-    - **Mode**: poder cambiar de modo nuevamente.
+    - **Fleet**: to be able to use our fleet again, either to send resources or to attack an enemy Crypto-space Ship. We must consider that after an attack or a trip, the drones need repairs and energy recharge.
 
-    - **Fleet**: para poder utilizar nuestra flota nuevamente, ya sea para enviar recursos o para atacar una Crypto-space Ship enemiga. Hay que considerar que luego de un ataque o de un viaje, los drones necesitan reparaciones y recarga de energia.
-
-    - **Fire** o **Repare**: La espera para poder realizar otra reparacion o dispario de cañon. Este contador depende del rol elegido al momento de actualizar el WOPR a nivel 1.
+    - **Fire** or **Repare**: The wait to make another repair or cannon shot. This counter depends on the role chosen when updating the WOPR at level 1.
 
 
 ********
-Mensajes
+Messages
 ********
 
-Es la manera que tienen las Crypto-space Ship para comunicarse entre si. Al instante de escribir un mensaje el capitan de la otra Crypto-space Ship ya puede leerlo.
-Solamente es necesario saber el nombre de la otra Crypto-space Ship a la hora de redactar el mensaje.
+It's the way the Crypto-space Ship has to communicate with each other. At the moment of writing a message the captain of the other Crypto-space Ship can read it.
+It is only necessary to know the name of the other Crypto-space Ship at the time of writing the message.
 
 
-
-*******
-Eventos
-*******
+******
+Events
+******
 
