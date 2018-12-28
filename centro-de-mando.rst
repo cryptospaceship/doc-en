@@ -144,47 +144,47 @@ In this section you can find information about the configuration of your combat 
 Map
 ***
 
-La sección estrategica por excelencia, donde los grandes comandantes se forjan y nacen las leyendas.
+
+The strategic section for excellence, where the great commanders are forged and the legends are born.
 
 .. image:: map.png
     :width: 700px
     :alt: Recursos
     :align: center
 
-Sección Izquierda
-=================
+Left Section
+============
+  
+In this part you can find the bar that indicates the energy needed to change the Crypto-space Ship mode.
+Then the different buttons to change mode. Indicating with a different color the current mode.
 
-En esta parte se puede encontrar la barra que indica la energia necesaria para poder pasas la Crypto-space Ship de modo.
-Luego los distintos botones para pasar de modo. Indicando con otro color el modo en que se encuentra actualmente.
+Finally we can put some coordinates in **Map Browse** in order to explore a position on the map.
 
-Finalmente podemos poner unas coordenadas en **Map Browse** para poder explorar una posicion en el mapa.
-
-
-Sección Central
+Central Section
 ===============
 
-En esta sección encontramos el mapa estrategico de 7x7 casilleros cada una representado por una coordenada. En el centro, de se posible, se encuentra la Crypto-space ship que estamos comandando. 
-tambien podemos identificar otros objetos tales como:
+In this section we find the strategic map of 7x7 boxes each one represented by a coordinate. In the center, if possible, is the Crypto-space ship that we are commanding.
+We can also identify other objects such as:
 
 .. image:: centralmap.png
     :width: 400px
     :alt: Central map
     :align: center
 
-- **Planetas**
+- **Planets**
 
-- **Cinturones de Asteroides**
+- **Asteroides belt**
 
-- **Otras Crypto-space ships**
+- **Other Crypto-space ships**
 
 - **Coordenadas vacias**
 
 
-Coordenedas vacias
-------------------
+Empty Coordenates
+-----------------
 
-Al inspeccionar una posicion vacia, podemos obsevar infomacion sobre la misma. La densidad de recursos, tanto de grafeno como de metales; como asi tambien la distancia a la que se encuentra.
-Si esta habilitada la opcion **Mode To** podemos desplazar la Crypto-space Ship hacia esa posicion.
+When inspecting an empty position, we can see information about it. The density of resources, both graphene and metals; as well as the distance to which it is.
+If the **Mode To** option is enabled, we can move the Crypto-space Ship to that position.
 
 .. image:: emptymap.png
     :width: 400px
@@ -192,49 +192,49 @@ Si esta habilitada la opcion **Mode To** podemos desplazar la Crypto-space Ship 
     :align: center
 
 .. hint::
-    La disponibilidad de recursos varia en las distintas posiciones, es conveniente buscar un lugar con alta densidad de recursos. Una alta densidad implica una mayor produccion, una evolucion mas rapida hace la Crypto-space Ship mas poderosa en menor tiempo.
+ The resources availability varies in different positions, it is convenient to search for a place with a high density of resources. A high density implies greater production, a faster evolution makes the Crypto-space Ship more powerful in less time.
 
 
-Otras Crypto-space Ships
+Other Crypto-space Ships
 ------------------------
 
-Cuando se selecciona otra Crypto-space Ship, se puede observar informacion de la misma.
+When you select another Crypto-space Ship, you can see information about it.
 
-- **Name**: Rempresenta el nombre de la obra nave, se puede enviar un mensaje al capitan de esta nave al apretar sobre el nombre.
+- **Name**: Represent the other ship name, you can send messages to the captain of that ship just by clicking over the name.
 
-- **Distance**: La distancia entre las dos Crypto-space ship medida en **gdu**
+- **Distance**: The distance between the two Crypto-space ship measure in **gdu**
 
-- **Mode**: El modo en que se encuentra la nave. Esta informacio es muy útil si se pretende atacarla.
+- **Mode**:The mode the ship is. This information is very useful if you want to attack it.
 
 .. image:: shipmap.png
     :width: 400px
     :alt: Ship map
     :align: center
 
-Para atacar a la nave seleccionada primero se deben cumplir ciertar condiciones
+In order to atack the selected ship, first certain conditions must be meet
 
-1. Tener una **flota de drones**
+1. To have a **Drones fleet**
 
-2. La flota debe estar lista para la accion. Si la flota estuvo recientemente en accion, hay que esperar los bloques restante para su reparacion y reaprovisionamiento.
+2. The fleet must be ready for action. if the fleet have been recently in action, you must wait the left blocks for repairment and supply.
 
-3. La otra Crypto-space Ship debe estar a una distanca en rango de acuerdo al diseño de la flota.
+3. The other Crypto-space Ship must be at range distance as the fleet designe.
 
-Al cumplirse las condiciones anteriormente descriptas, se habilitan los botones **Attack** y **Raid**. Ambas acciones realizan una accion belica sobre la otra Crypto-space Ship pero con la diferencia que **Attack** intenta destruir todas las naves y luego robar recursos, en cambio **Raid** intenta robar recursos tratando de salva la mayor cantidad de drones de la refriega.
 
-**Send resources** permite enviar recursos a la otra Crypto-space Ship, se tienem que cumplir los mismos requisitos que para entablar una batalla. La cantidad que se puede enviar depende del diseño de los drones y la cantidad que conforme la flota.
+When the conditions described above are met, the **Attack** and **Raid** buttons are enabled. Both actions perform a bellicose action on the other Crypto-space Ship but with the difference that **Attack** tries to destroy all the ships and then steal resources, instead **Raid** tries to steal resources trying to save as much drones as possible.
+
+**Send resources** allows you to send resources to the other Crypto-space Ship, you have to meet the same requirements to start a battle. The amount that can be sent depends on the design of the drones and the amount that the fleet conforms to.
 
 .. note::
-    La cantidad de bloques necesarios para el reaprovisionamiento de los drones es mucho mayor al atacar que al enviar recursos a otras Crypto-space Ships.
+The number of blocks needed to replenish the drones is much greater when attacking than when sending resources to other Crypto-space Ships.
 
 
-De acuerdo al rol seleccionado al ampliar el **W.O.P.R** se puede habilitar la opcion de disparar el Crypto-Ion cannon o reparar la Crypto-space Ship, en caso de haber seleccionado **Crypto-Ion Cannon** o **Reparer**.
+According to the selected role when expanding the **W.O.P.R** you can enable the option to fire the Crypto-Ion cannon or repair the Crypto-space Ship, if you have selected **Crypto-Ion Cannon** or **Reparer**
 
+When firing the Crypto-Ion cannon, you can choose between two shooting modes:
 
-Al disparar el Crypto-Ion cannon, se puede elegir entre dos modos de disparo:
+- **Normal**: Causing damage to the entire Crypto-space Ship.
 
-- **Normal**: Provocando daño a toda la Crypto-space Ship
-
-- **Accuracy**: Provocando daño solamente a la estructura seleccionada, destruyendo los niveles correspondientes al nivel de actualizacion del Crypto-Ion Cannon.
+- **Accuracy**: Causing damage only to the selected structure, destroying the levels corresponding to the update level of the Crypto-Ion Cannon.
 
 
 
