@@ -8,7 +8,8 @@ Contents
     
     
 .. hint::
-    *Game url*: httsp://cryptospaceship.io
+    *Game url*: https://cryptospaceship.io/
+    
     *Spanish Translation*: https://cryptospaceship.readthedocs.io/es/latest/
 
 
