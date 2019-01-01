@@ -5,6 +5,11 @@ Contents
     :width: 700px
     :alt: CryptoSpaceShip
     :align: center
+    
+    
+.. hint::
+    *Game url*: httsp://cryptospaceship.io
+    *Spanish Translation*: https://cryptospaceship.readthedocs.io/es/latest/
 
 
 .. toctree::
