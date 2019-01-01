@@ -19,29 +19,30 @@ Each CSS owner can play all the time he wants and then sell it at any price he w
 King of the hill
 ****************
 
-Rey de la colina, o en este caso Rey del planeta, es una modalidad de juego de CryptoSpaceShip donde hay que conquistar el único planeta presente en el mapa y defenderlo durante una cierta cantidad de bloques.
-Una vez que se conquista el planeta y se mantiene por los bloques solicitados puede solicitar la victoria, reclamando así el pozo acumulado.
+King of the hill, or in this case King of the planet, is a CryptoSpaceShip game mode where you have to conquer the only planet present on the map and defend it for a certain number of blocks.
 
-Cada vez que un planeta es arrebatado a su dueño, se reinicia la condición y el nuevo candidato tiene que mantenerlo por la cantidad de bloques solicitados.
+Once the planet is conquered and maintained by the requested blocks, you can claim victory, claiming the accumulated pot.
+
+Each time a planet is taken from its owner, the condition is restarted and the new candidate has to kee it for the amount of blocks requested.
 
 .. note::
-    Para poder conquistar el planeta primero hay que arrebatárselo a los nativos.
+    In order to conquer the planet, first you have to take it from the natives.
 
 
 
-Características de la versión actual
-====================================
+Characteristics of the current version
+======================================
 
-- **Versión actual**: 1.5
+- **Current versión**: 1.5
 
-- **Tamaño del mapa**: 
-    - Máximo: 64x64
-    - Mínimo: 12x12
+- **Map size**: 
+    - Maximum: 64x64
+    - Minimum: 12x12
 
-- **Densidad de Recursos**
-    - Máximo: 10
-    - Mínimo: 1
+- **Resourses Density**
+    - Maximum: 10
+    - Minimum: 1
 
-- **Generación del CSS Hull**: Gen 0 - Conexion con 2 QAIM
+- **CSS Hull Generation**: Gen 0 - Conection with 2 QAIM
 
-- **Condición de Victoria**: 100000 / tiempo de bloque estimado
+- **Victory Condition**: 100000 / estimated blocks time
