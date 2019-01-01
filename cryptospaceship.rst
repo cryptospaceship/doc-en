@@ -70,7 +70,7 @@ Characteristics of the current generation
     6. Mode Change Improvements
 
 .. note::
-    The **Training Limit** establishes the number of points necessary to be able to level up, you get point while playing and when you upgrade level, you are able to better **Training Capacity**, in **Gen 0** you need 5 point to train your QAIM
+    The **Training Limit** establishes the number of points necessary to be able to level up, you get point while playing and when you upgrade level, you are able to better **Training Capacity**, in **Gen 0** you CSS Token obtain 5 point to train your QAIM for each upgrade level
    
 .. image:: csstoken.png
     :width: 400px
@@ -255,7 +255,7 @@ According to the distribution of the points there are 5 different types of drone
     Two or more types of drones can not coexist at the same time. If the strategy changes, it is necessary to destroy current fleet, redesign and build new types of drones.
 
 .. hint::
-    Drones not only serve for war, but also to send resources to an allied ship, it is necessary that drones have **distance** and **cargo** points.
+    Drones not only serve for war, but also to send resources to an allied ship, it is necessary that drones have **distance** and **load** points.
 
    
 .. image:: csstokenhull.png
