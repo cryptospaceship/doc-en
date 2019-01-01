@@ -7,10 +7,10 @@ Contents
     :align: center
     
     
-.. hint::
+.. note::
     **Game url**: https://cryptospaceship.io/
     
-    **Spanish Translation**: https://cryptospaceship.readthedocs.io/es/latest/
+    **Documentacion en Español**: https://cryptospaceship.readthedocs.io/es/latest/
 
 
 .. toctree::
