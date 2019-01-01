@@ -1,17 +1,19 @@
-##############
-Modos de Juego
-##############
+##########
+Game modes
+##########
 
-CryptoSpaceShip es un juego de estrategia de navegador donde todo sucede en la blockchain. **El héroe** del juego el CSS Token que evoluciona y va ganando experiencia en las ditintas partidas, sin importar si gana o pierde algo de puntos de experiencia siempre suma.
-A medida que va evolucionando, va a ir ganando ciertas ventajas que cada dueño del CSS Token tiene que elegir.
+CryptoSpaceShip is a browser strategy game where everything happens on the blockchain. **The hero** of the game the CSS Token  evolves and gain experience in different games, regardless of whether he wins or loses some experience points always adds up.
 
-Para poder jugar es necesario contar con un CSS Token, se puede adquirir directamente en el portal del juego o en su defecto en un mercado alternativo.
-Los CSS Token que se venden en el portal son básicos, esto quiere decir que no estan evolucionadas. 
+As it evolves, it will gain certain advantages that every CSS Token owner has to choose.
 
-Cada dueño de su CSS Token puede jugar el tiempo que quiera y luego venderlo al precio que quiera una vez ya evolucionado.  
+To be able to play it is necessary to have a CSS Token, it can be purchased directly in the game portal or alternatively in any seconday market.
+
+The CSS Token that are sold in the portal are basic, this means that they are not evolved.
+
+Each CSS owner can play all the time he wants and then sell it at any price he wish once he had evolved.
 
 .. hint::
-    Una variante lucrativa para los jugadores experimentados es hacer evolucionar los CSS Token para luego venderlos con ciertas habilidades ya adquiridas.
+    A lucrative variant for experimented players is to evolve CSS tokens and selling them with certain evolved aquiered.
 
 ****************
 King of the hill
