@@ -61,14 +61,14 @@ Characteristics of the current generation
 
 ::
 
-    QAIMs
-    1. Fleet Points
-    2. Resources Improvement
-    3. Constructions Improvement
-    4. Fleet improvement
-    5. Jumping GDU Improvements
-    6. Mode Change Improvements
-
+    QAIMs
+    1. Fleet Points
+    2. Resources Improvement
+    3. Constructions Improvement
+    4. Fleet improvement
+    5. Jumping GDU Improvements
+    6. Mode Change Improvements
+    
 .. note::
     The **Training Limit** establishes the number of points necessary to be able to level up, you get point while playing and when you upgrade level, you are able to better **Training Capacity**, in **Gen 0** you CSS Token obtain 5 point to train your QAIM for each upgrade level
    
