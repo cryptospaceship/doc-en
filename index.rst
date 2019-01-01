@@ -4,12 +4,6 @@ Contents
 .. image:: intro.png
     :width: 700px
     :alt: CryptoSpaceShip
-    :align: centerContents
-========
-
-.. image:: intro.png
-    :width: 700px
-    :alt: CryptoSpaceShip
     :align: center
 
 
