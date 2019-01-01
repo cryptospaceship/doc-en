@@ -8,9 +8,9 @@ Contents
     
     
 .. hint::
-    *Game url*: https://cryptospaceship.io/
+    **Game url**: https://cryptospaceship.io/
     
-    *Spanish Translation*: https://cryptospaceship.readthedocs.io/es/latest/
+    **Spanish Translation**: https://cryptospaceship.readthedocs.io/es/latest/
 
 
 .. toctree::
